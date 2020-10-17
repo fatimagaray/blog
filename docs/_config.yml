@@ -1,8 +1,13 @@
 encoding: UTF-8
 
 theme: jekyll-theme-slate
+
+author: "Fátima Garay"
+
 lang: "es-ES"
+
 permalink: date
 
 title: [La mamá de Zoe]
+
 description: [Aprendiendo todo de nuevo con mi hija]
