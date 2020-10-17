@@ -11,3 +11,9 @@ permalink: date
 title: [La mamá de Zoe]
 
 description: [Aprendiendo todo de nuevo con mi hija]
+
+paginate_path: "/blog/page:num/"
+
+paginate: 5
+
+pagination: 4
