@@ -14,5 +14,5 @@ date: "2020-10-17"
 
 ### Algunos enlaces a contenido destacado
 
- - [Ejemplos de edición de texto.](./2020/20201017.md)
- - [Ejemplos modificado.](./2020/20201017bis.md)
+ - [Ejemplos de edición de texto.](./post/2020/20201017.md)
+ - [Ejemplos modificado.](./post/2020/20201017bis.md)
