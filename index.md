@@ -17,3 +17,8 @@ date: "2020-10-17"
  - [Ejemplos de edición de texto.](./2020/20201017.md)
  - [Ejemplos modificado.](./2020/20201017bis.md)
  - [Otro Ejemplo.](./2020/20201019.md)
+
+ 
+ - [Ejemplos de edición de texto.](./docs/20201017.md)
+ - [Ejemplos modificado.](./docs/20201017bis.md)
+ - [Otro Ejemplo.](./docs/20201019.md)

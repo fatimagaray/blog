@@ -12,6 +12,6 @@ title: [La mamá de Zoe]
 
 description: [Aprendiendo todo de nuevo con mi hija]
 
-paginate_path: "/blog/post:num/"
+paginate_path: "/blog/docs:num/"
 
 pagination: 4
