@@ -1,4 +1,9 @@
-## Motivación para crear este blog
+---
+layout: "default"
+date: "2020-10-17"
+---
+
+### Motivación para crear este blog
 
 
 
@@ -7,7 +12,7 @@
 
 
 
-## Algunos enlaces a contenido destacado
+### Algunos enlaces a contenido destacado
 
  - [Ejemplos de edición de texto.](./2020/20201017.md)
  - [Ejemplos modificado.](./2020/20201017bis.md)
